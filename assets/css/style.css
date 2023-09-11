@@ -2,14 +2,6 @@
   #style.css
 \*-----------------------------------*/
 
-/**
- * copyright 2022 codewithsadee
- */
-
-
-
-
-
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
@@ -547,6 +539,13 @@ body {
 
 .news-list {
   display: grid;
+  margin-top: 30px;
+  gap: 30px;
+}
+
+.news-list2 {
+  display: grid;
+  margin-top: 30px;
   gap: 30px;
 }
 
